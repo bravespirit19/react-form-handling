@@ -54,7 +54,7 @@ const ControlledForm = () => {
 
   return (
     <div className="form-wrap">
-      <h1>Uncontrolled Components</h1>
+      <h1>Controlled Components</h1>
       <form action="#">
         <div className="username input">
           <div className="input-wrap">
